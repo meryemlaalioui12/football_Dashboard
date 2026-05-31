@@ -50,3 +50,6 @@ This project demonstrates how sports data can be transformed into actionable ins
 🚀 Conclusion
 
 This project successfully combines Big Data processing and Business Intelligence to create a complete football analytics solution. From raw CSV data to interactive dashboards, the entire workflow demonstrates how modern data technologies can be used to analyze sports performance, identify champions, and generate valuable insights from historical football data.
+
+<img width="1165" height="654" alt="Screenshot (1657)" src="https://github.com/user-attachments/assets/9d621000-6799-4c97-bbcc-12794d2a209a" />
+
